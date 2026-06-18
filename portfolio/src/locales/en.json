@@ -1,0 +1,186 @@
+
+
+{
+  "meta": {
+    "home": {
+      "title": "Hamza Shahid | Full Stack Software Engineer & AI Developer",
+      "description": "Professional Full Stack Software Engineer specializing in AI Automation, Python Development, Backend Engineering, Django, React, and AI-Powered Applications."
+    },
+    "about": {
+      "title": "About | Hamza Shahid — Full Stack Software Engineer & AI Developer",
+      "description": "Learn about Hamza Shahid, a Full Stack Software Engineer with 3+ years building scalable web apps, AI systems, and enterprise-grade backend solutions."
+    },
+    "services": {
+      "title": "Services | Hamza Shahid — AI, Python & Full Stack Development",
+      "description": "Professional services: AI automation, AI chatbots, Python development, full stack engineering, backend systems, database design, and AI integration."
+    },
+    "projects": {
+      "title": "Projects | Hamza Shahid — AI & Full Stack Portfolio",
+      "description": "Featured projects spanning AI knowledge assistants, full stack e-commerce, enterprise backend systems, and AI-powered business automation platforms."
+    },
+    "contact": {
+      "title": "Contact | Hamza Shahid — Full Stack Software Engineer & AI Developer",
+      "description": "Get in touch with Hamza Shahid to collaborate on AI-powered solutions, full stack applications, and scalable backend systems."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "footer": {
+    "title": "Hamza Shahid",
+    "subtitle": "Full Stack Software Engineer & AI Developer",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "copyright": "© 2026 Hamza Shahid. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "headline": "Building Intelligent Software Solutions with AI & Full-Stack Engineering",
+      "subheadline": "I help businesses and startups build scalable web applications, AI-powered solutions, and robust backend systems that drive growth and innovation.",
+      "viewProjects": "View Projects",
+      "getInTouch": "Get In Touch"
+    },
+    "stats": [
+      "3+ Years Experience",
+      "20+ Projects Delivered",
+      "AI & Full Stack Specialist",
+      "Global Client Focus"
+    ],
+    "expertise": {
+      "title": "Expertise Highlights",
+      "items": [
+        {
+          "title": "AI Automation",
+          "description": "Intelligent workflows and LLM-powered solutions"
+        },
+        {
+          "title": "Full Stack Development",
+          "description": "End-to-end web applications with modern technologies"
+        },
+        {
+          "title": "Backend Engineering",
+          "description": "Scalable architectures and robust API systems"
+        },
+        {
+          "title": "Cloud-Ready Applications",
+          "description": "Deployment-ready solutions built for scale"
+        }
+      ]
+    },
+    "tech": {
+      "title": "Featured Technologies",
+      "categories": {
+        "Backend": "Backend",
+        "Frontend": "Frontend",
+        "Database": "Database",
+        "AI": "AI"
+      }
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "p1": "I am Hamza Shahid, a Full Stack Software Engineer with over three years of experience building scalable web applications, AI-powered systems, and enterprise-grade backend solutions. My expertise spans modern web technologies, API development, database architecture, cloud-ready systems, and artificial intelligence integrations.",
+    "p2": "I am passionate about solving complex business challenges through technology and delivering software solutions that are efficient, secure, and user-focused. I continuously explore emerging technologies in AI, automation, and software engineering to create impactful digital products.",
+    "competencies": {
+      "title": "Core Competencies",
+      "items": [
+        "Full Stack Development",
+        "Backend Architecture",
+        "REST API Development",
+        "AI Integration",
+        "Database Design",
+        "Software Automation",
+        "Performance Optimization",
+        "Cloud Deployment"
+      ]
+    },
+    "values": {
+      "title": "Professional Values",
+      "items": [
+        "Clean Code",
+        "Scalability",
+        "Reliability",
+        "Innovation",
+        "Continuous Learning"
+      ]
+    }
+  },
+  "services": {
+    "title": "Professional Services",
+    "items": [
+      {
+        "title": "AI Automation Solutions",
+        "description": "Automate repetitive business processes using AI-driven workflows, intelligent agents, LLM integrations, and custom automation systems."
+      },
+      {
+        "title": "AI Chatbot Development",
+        "description": "Build GPT-style AI assistants, customer support bots, RAG systems, knowledge base assistants, and enterprise AI applications."
+      },
+      {
+        "title": "Python Development",
+        "description": "Custom Python applications, automation scripts, API development, business tools, and backend systems tailored to business requirements."
+      },
+      {
+        "title": "Full Stack Development",
+        "description": "End-to-end web application development using Django, React, REST APIs, and modern frontend technologies."
+      },
+      {
+        "title": "Backend Engineering",
+        "description": "Design scalable server-side architectures, authentication systems, RBAC, APIs, and high-performance business platforms."
+      },
+      {
+        "title": "Database Design & Optimization",
+        "description": "Professional database architecture, query optimization, migrations, performance tuning, and data management solutions."
+      },
+      {
+        "title": "WordPress Development",
+        "description": "Custom WordPress websites, business websites, landing pages, performance optimization, and plugin integration."
+      },
+      {
+        "title": "AI Integration & Consulting",
+        "description": "Integrate OpenAI, Ollama, LangChain, RAG pipelines, and intelligent automation into existing business systems."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "items": [
+      {
+        "title": "AI Knowledge Assistant (GPT-Style Chatbot)",
+        "category": "Artificial Intelligence",
+        "description": "Developed an advanced AI chatbot powered by LLMs and Retrieval-Augmented Generation (RAG) capable of answering business-specific queries using custom knowledge bases and intelligent search capabilities."
+      },
+      {
+        "title": "Full Stack E-Commerce Platform",
+        "category": "Full Stack Development",
+        "description": "Built a scalable e-commerce platform featuring product management, authentication, role-based access control, payment integration, order management, and analytics dashboards."
+      },
+      {
+        "title": "Enterprise Backend Management System",
+        "category": "Backend Engineering",
+        "description": "Developed a secure backend infrastructure with RBAC, JWT authentication, API management, user permissions, audit logs, and scalable database architecture."
+      },
+      {
+        "title": "AI-Powered Business Automation Platform",
+        "category": "AI Automation",
+        "description": "Designed an intelligent automation platform that streamlines workflows, automates repetitive operations, generates reports, and integrates AI-driven decision-making processes."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Build Something Great Together",
+    "subtitle": "Interested in collaborating on a project, discussing a new opportunity, or exploring innovative solutions? Feel free to connect.",
+    "labels": {
+      "Phone": "Phone",
+      "WhatsApp": "WhatsApp",
+      "Email": "Email",
+      "GitHub": "GitHub",
+      "LinkedIn": "LinkedIn"
+    }
+  }
+}
+
