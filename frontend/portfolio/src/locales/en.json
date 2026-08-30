@@ -1,0 +1,439 @@
+{
+  "meta": {
+    "home": {
+      "title": "Hamza Shahid — AI & Product Engineering",
+      "description": "Product engineering practice specializing in production AI systems, LLM and RAG architecture, backend platforms, and full-stack applications for founders and product teams."
+    },
+    "about": {
+      "title": "About — Hamza Shahid | AI & Product Engineering",
+      "description": "Hamza Shahid is a full-stack software engineer and AI systems architect who designs, builds, and ships production-grade platforms for startups and growing product teams."
+    },
+    "services": {
+      "title": "Capabilities — Hamza Shahid | AI & Product Engineering",
+      "description": "Engagements across AI systems, agentic automation, backend architecture, full-stack product delivery, cloud reliability, and technical due diligence."
+    },
+    "projects": {
+      "title": "Case Studies — Hamza Shahid | AI & Product Engineering",
+      "description": "Selected engineering case studies: enterprise AI assistants, commerce platforms, high-throughput backend systems, and AI-driven automation with measured outcomes."
+    },
+    "contact": {
+      "title": "Start a Project — Hamza Shahid | AI & Product Engineering",
+      "description": "Discuss an AI system, product build, or architecture review. Direct line to the engineer who does the work — typical response within one business day."
+    }
+  },
+  "brand": {
+    "initials": "HS",
+    "name": "Hamza Shahid",
+    "role": "AI & Product Engineering"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Capabilities",
+    "projects": "Case Studies",
+    "contact": "Start a Project"
+  },
+  "common": {
+    "startProject": "Start a Project"
+  },
+  "footer": {
+    "blurb": "An independent product engineering practice building production AI systems, backend platforms, and full-stack applications for founders and product teams.",
+    "quickLinks": "Navigate",
+    "contact": "Direct Contact",
+    "availability": "Currently accepting a limited number of engagements.",
+    "copyright": "© 2026 Hamza Shahid. All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "badge": "Accepting select engagements",
+      "headlineLead": "Production-grade software for teams putting",
+      "headlineAccent": "AI into real products",
+      "subheadline": "I partner with founders and product teams to architect and ship systems that survive real users — AI assistants that stay accurate, backends that hold under load, and full-stack products that reach production instead of stalling at the prototype.",
+      "primaryCta": "View case studies",
+      "secondaryCta": "Start a project",
+      "panel": {
+        "title": "Practice snapshot",
+        "items": [
+          {
+            "label": "Specialization",
+            "value": "Applied AI systems, backend architecture & full-stack product delivery"
+          },
+          {
+            "label": "Engagement types",
+            "value": "Fixed-scope builds, focused sprints, architecture reviews, ongoing partnership"
+          },
+          {
+            "label": "Working hours",
+            "value": "Deliberate overlap with US and EU business hours"
+          },
+          {
+            "label": "First response",
+            "value": "Within one business day, with a direct assessment of fit"
+          }
+        ]
+      }
+    },
+    "stats": [
+      {
+        "value": "3+",
+        "label": "Years shipping production systems"
+      },
+      {
+        "value": "20+",
+        "label": "Platforms delivered end to end"
+      },
+      {
+        "value": "AI-first",
+        "label": "LLM, RAG & automation specialization"
+      },
+      {
+        "value": "Global",
+        "label": "US, EU & MENA client delivery"
+      }
+    ],
+    "expertise": {
+      "eyebrow": "Capabilities",
+      "title": "Engineering depth across the full product stack",
+      "subtitle": "One accountable engineer across architecture, implementation, and deployment — no handoffs, no translation loss between the plan and the code that ships.",
+      "items": [
+        {
+          "title": "AI Systems & LLM Engineering",
+          "description": "Retrieval pipelines, evaluation harnesses, and guardrails that keep model output accurate, grounded, and defensible in front of real customers."
+        },
+        {
+          "title": "Full-Stack Product Development",
+          "description": "Complete product surfaces from data model to interface, built to be extended by the team that inherits them rather than rewritten."
+        },
+        {
+          "title": "Backend & API Architecture",
+          "description": "Service boundaries, authentication, role-based access, and API contracts designed for throughput, auditability, and long-term change."
+        },
+        {
+          "title": "Data & Database Engineering",
+          "description": "Schema design, query and index strategy, migrations, and reporting layers that stay fast as volume grows by an order of magnitude."
+        },
+        {
+          "title": "Cloud, Delivery & Reliability",
+          "description": "Deployment pipelines, environment strategy, observability, and error budgets so releases are routine instead of risky."
+        },
+        {
+          "title": "Architecture & Technical Advisory",
+          "description": "Independent architecture reviews, build-versus-buy calls, AI feasibility assessments, and remediation plans for systems under strain."
+        }
+      ]
+    },
+    "process": {
+      "eyebrow": "Engagement model",
+      "title": "How work moves from conversation to production",
+      "subtitle": "A deliberate sequence that de-risks the build before significant budget is committed.",
+      "steps": [
+        {
+          "title": "Discovery & scoping",
+          "description": "We pin down the business outcome, constraints, and success criteria, then agree on what is genuinely in scope for the first release."
+        },
+        {
+          "title": "Architecture & plan",
+          "description": "You receive a written technical plan: system design, data model, integration surface, delivery milestones, and the risks worth pricing in."
+        },
+        {
+          "title": "Build in visible increments",
+          "description": "Working software in short cycles with demos against real data, so direction is corrected early rather than discovered at the end."
+        },
+        {
+          "title": "Launch & handover",
+          "description": "Production deployment with monitoring, documentation, and a walkthrough that leaves your team able to operate and extend the system."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Have a system that needs to be built properly the first time?",
+      "description": "Send over the problem, the constraints, and the deadline. You will get a straight assessment of whether it is worth building, how I would approach it, and what it realistically takes.",
+      "button": "Start a project"
+    }
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "The engineer behind the practice",
+    "lead": "I build software that has to work in production — not demos that impress in a meeting and collapse under real usage.",
+    "p1": "I am Hamza Shahid, a full-stack software engineer and AI systems architect with over three years spent building scalable web applications, AI-powered platforms, and enterprise-grade backend infrastructure. My work spans system architecture, API design, database engineering, cloud deployment, and the applied AI layer — retrieval pipelines, LLM integration, and automation that produces results a business can rely on.",
+    "p2": "Most of my engagements start where something is already at risk: a prototype that cannot be taken to customers, a backend buckling under growth, or an AI feature that sounds convincing but is not accurate enough to ship. I take responsibility for the whole path — deciding the architecture, writing the code, deploying it, and staying accountable for how it behaves once real users arrive.",
+    "p3": "I work with a small number of clients at a time, deliberately. Founders and product teams get a direct line to the person doing the engineering, written technical reasoning behind every significant decision, and systems their own team can operate long after the engagement ends.",
+    "competencies": {
+      "eyebrow": "Core competencies",
+      "title": "Where I do my strongest work",
+      "items": [
+        "System & software architecture",
+        "AI, LLM & RAG engineering",
+        "Backend platform development",
+        "REST API design & integration",
+        "Database design & optimization",
+        "Process & workflow automation",
+        "Performance & scalability tuning",
+        "Cloud deployment & delivery"
+      ]
+    },
+    "values": {
+      "eyebrow": "Operating principles",
+      "title": "How I make engineering decisions",
+      "items": [
+        {
+          "title": "Correctness before cleverness",
+          "description": "Systems are designed to behave predictably under failure, not to showcase unnecessary sophistication."
+        },
+        {
+          "title": "Built to be inherited",
+          "description": "Readable code, explicit boundaries, and documentation so your team is never dependent on me to keep moving."
+        },
+        {
+          "title": "Scalability priced in early",
+          "description": "Data models and service boundaries chosen for the load you expect next year, not just the demo next week."
+        },
+        {
+          "title": "Written reasoning",
+          "description": "Significant decisions come with the tradeoffs in writing, so non-technical stakeholders can evaluate them too."
+        },
+        {
+          "title": "Measured outcomes",
+          "description": "Success is defined in numbers — latency, accuracy, conversion, hours recovered — and reported against honestly."
+        }
+      ]
+    }
+  },
+  "services": {
+    "eyebrow": "Capabilities",
+    "title": "Engagements built around outcomes, not hours",
+    "subtitle": "Scoped as a defined project, a focused sprint, or ongoing engineering partnership — depending on what the problem actually needs.",
+    "items": [
+      {
+        "title": "AI Automation & Agentic Workflows",
+        "description": "Automate operational processes with orchestrated LLM workflows, tool-using agents, and human review checkpoints where the cost of an error is real."
+      },
+      {
+        "title": "AI Assistants & RAG Systems",
+        "description": "Domain-specific assistants grounded in your own knowledge base, with retrieval quality, citation, and evaluation built in rather than bolted on."
+      },
+      {
+        "title": "LLM Integration & AI Advisory",
+        "description": "Model selection, prompt and context architecture, cost and latency budgeting, and a clear-eyed assessment of what AI will and will not solve for you."
+      },
+      {
+        "title": "Full-Stack Product Development",
+        "description": "End-to-end delivery of web products — data model, backend services, application interface, and deployment — as one coherent system."
+      },
+      {
+        "title": "Backend & API Engineering",
+        "description": "Scalable server-side platforms with authentication, role-based access control, background processing, and versioned APIs built for integration."
+      },
+      {
+        "title": "Python Engineering & Data Tooling",
+        "description": "Production Python services, internal tools, ingestion and processing pipelines, and automation that replaces fragile manual operations."
+      },
+      {
+        "title": "Database Architecture & Optimization",
+        "description": "Schema and index design, query tuning, safe migrations, and reporting structures that keep read paths fast as data volume compounds."
+      },
+      {
+        "title": "Performance & Scalability Engineering",
+        "description": "Profiling, caching strategy, query and payload optimization, and load-path redesign for systems that have outgrown their original architecture."
+      },
+      {
+        "title": "Cloud Deployment & Delivery",
+        "description": "Environment setup, containerization, CI/CD pipelines, monitoring, and alerting so shipping to production is a routine, reversible operation."
+      },
+      {
+        "title": "Architecture Review & Technical Due Diligence",
+        "description": "Independent assessment of an existing codebase or vendor deliverable, with prioritized risks, effort estimates, and a concrete remediation plan."
+      },
+      {
+        "title": "MVP Delivery for Founders",
+        "description": "A focused first release engineered to survive early customers and investor scrutiny, without the technical debt that forces a rewrite at scale."
+      },
+      {
+        "title": "Marketing Site & CMS Engineering",
+        "description": "Fast, accessible, well-structured marketing sites and CMS implementations that your team can update without opening a ticket."
+      }
+    ],
+    "note": {
+      "title": "Not sure which shape the engagement should take?",
+      "description": "Describe the problem in plain language. I will tell you whether it is a two-week sprint, a full build, or something you should not be spending money on yet.",
+      "button": "Start a project"
+    }
+  },
+  "projects": {
+    "eyebrow": "Selected work",
+    "title": "Case studies with measured outcomes",
+    "subtitle": "A sample of systems taken from problem statement to production. Client names are withheld under confidentiality; architecture and results are described as delivered.",
+    "labels": {
+      "challenge": "Challenge",
+      "approach": "Approach",
+      "impact": "Impact",
+      "stack": "Engineering stack"
+    },
+    "items": [
+      {
+        "title": "Enterprise AI Knowledge Assistant",
+        "category": "Applied AI · Retrieval Systems",
+        "challenge": "A services company was losing senior staff hours to repetitive internal questions buried across years of policy documents, contracts, and process guides that keyword search could not surface reliably.",
+        "approach": "Designed a retrieval-augmented assistant over a vector-indexed document corpus with hybrid retrieval, permission-aware filtering, mandatory source citation, and an offline evaluation suite that gates every prompt and model change before release.",
+        "impact": [
+          {
+            "value": "92%",
+            "label": "Questions resolved without human escalation"
+          },
+          {
+            "value": "900ms",
+            "label": "Median grounded response time"
+          },
+          {
+            "value": "180k",
+            "label": "Documents indexed and searchable"
+          }
+        ]
+      },
+      {
+        "title": "Multi-Vendor Commerce Platform",
+        "category": "Full-Stack Product",
+        "challenge": "A retail operator was running catalog, orders, and vendor payouts across spreadsheets and disconnected tools, which capped growth and made reconciliation a recurring monthly failure.",
+        "approach": "Built a unified commerce platform with vendor onboarding, catalog and inventory management, role-based permissions, payment and refund flows, order lifecycle automation, and an operations dashboard reporting on live transactional data.",
+        "impact": [
+          {
+            "value": "$1.2M",
+            "label": "Transaction volume processed in year one"
+          },
+          {
+            "value": "+31%",
+            "label": "Checkout completion after redesign"
+          },
+          {
+            "value": "99.95%",
+            "label": "Platform uptime sustained"
+          }
+        ]
+      },
+      {
+        "title": "Enterprise Backend & Access Control Platform",
+        "category": "Backend Architecture",
+        "challenge": "A growing SaaS product had authorization logic scattered across its codebase, no reliable audit trail, and an API that buckled during peak usage — blocking an enterprise security review.",
+        "approach": "Re-architected the backend around a centralized permission model with JWT authentication, granular role-based access control, immutable audit logging, background job processing, request-level caching, and versioned API contracts.",
+        "impact": [
+          {
+            "value": "3.4M",
+            "label": "API requests served per day"
+          },
+          {
+            "value": "140ms",
+            "label": "p95 response time under peak load"
+          },
+          {
+            "value": "Passed",
+            "label": "Enterprise security review, first attempt"
+          }
+        ]
+      },
+      {
+        "title": "AI-Driven Business Automation Platform",
+        "category": "AI Automation",
+        "challenge": "An operations team was spending most of each week manually routing requests, chasing approvals, and assembling reports from four systems that did not talk to each other.",
+        "approach": "Delivered an automation platform combining event-driven workflow orchestration, LLM-based classification and summarization, exception queues for human review, and scheduled report generation across previously siloed data sources.",
+        "impact": [
+          {
+            "value": "1,900",
+            "label": "Analyst hours recovered per quarter"
+          },
+          {
+            "value": "72%",
+            "label": "Manual workflow steps eliminated"
+          },
+          {
+            "value": "4 → 1",
+            "label": "Systems the team operates daily"
+          }
+        ]
+      },
+      {
+        "title": "Real-Time Analytics & Reporting Layer",
+        "category": "Data Engineering",
+        "challenge": "Leadership decisions were running a day behind the business because reporting queries ran directly against a transactional database, degrading application performance whenever anyone opened a dashboard.",
+        "approach": "Introduced a separated analytical layer with incremental aggregation, materialized rollups, query-level caching, and an API purpose-built for dashboard access patterns, removing reporting load from the production write path entirely.",
+        "impact": [
+          {
+            "value": "<1s",
+            "label": "Dashboard queries across 400M+ rows"
+          },
+          {
+            "value": "-46%",
+            "label": "Reporting infrastructure cost"
+          },
+          {
+            "value": "Real time",
+            "label": "Replaced day-old batch reporting"
+          }
+        ]
+      },
+      {
+        "title": "AI Document Intelligence for Compliance Review",
+        "category": "Applied AI · Document Processing",
+        "challenge": "A compliance function was manually reading long third-party documents to extract a fixed set of fields — slow, inconsistent between reviewers, and impossible to scale with rising volume.",
+        "approach": "Built a document intelligence pipeline pairing layout-aware parsing with structured LLM extraction, per-field confidence scoring, and a review interface that routes only low-confidence extractions to a human specialist.",
+        "impact": [
+          {
+            "value": "98.6%",
+            "label": "Field extraction accuracy on validation set"
+          },
+          {
+            "value": "40 → 6",
+            "label": "Minutes of review per document"
+          },
+          {
+            "value": "5x",
+            "label": "Document throughput at same headcount"
+          }
+        ]
+      }
+    ],
+    "cta": {
+      "title": "Want this level of rigor on your product?",
+      "description": "Tell me what you are building and where it is stuck. I will tell you how I would approach it.",
+      "button": "Start a project"
+    }
+  },
+  "contact": {
+    "eyebrow": "Start a project",
+    "title": "Let's scope the system you need built",
+    "subtitle": "Send the problem, the constraints, and the timeline. You will get a direct technical assessment from the engineer who would actually do the work — not a sales pipeline.",
+    "primary": {
+      "label": "Email — preferred for new projects",
+      "hint": "Include the problem, current stack, and target timeline for the fastest useful reply.",
+      "action": "Send project brief"
+    },
+    "labels": {
+      "whatsapp": "WhatsApp",
+      "phone": "Direct line"
+    },
+    "hints": {
+      "whatsapp": "Best for quick scoping questions",
+      "phone": "Scheduled calls preferred"
+    },
+    "details": {
+      "title": "Working details",
+      "items": [
+        {
+          "title": "Response time",
+          "description": "Within one business day, with a straight answer on fit."
+        },
+        {
+          "title": "Availability",
+          "description": "Operating on PKT with deliberate overlap for US and EU working hours."
+        },
+        {
+          "title": "Engagement types",
+          "description": "Fixed-scope projects, focused sprints, architecture reviews, and ongoing partnerships."
+        },
+        {
+          "title": "Confidentiality",
+          "description": "NDA-friendly. Client work is discussed only with explicit permission."
+        }
+      ]
+    }
+  }
+}
